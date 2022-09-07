@@ -16,6 +16,6 @@ Partition will be as below
 /dev/sdX should be replaced for your own.
 
 
-*```
+```
 $ ./p /dev/sdX
-```*
+```
